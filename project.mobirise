@@ -314,7 +314,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "موقع برامج بلس وتطبيقات مدفوعة مجانا",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"https://ioskwt2.github.io/\" data-toolbar=\"-mbrBtnMove\">تطبيقات بلس</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://twitter.com/ioskwt\" data-toolbar=\"-mbrBtnMove\">تطبيقات مدفوعه</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"https://ioskwt2.github.io/\" data-toolbar=\"-mbrBtnMove\">تطبيقات بلس</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://ioskwt3.github.io/\" data-toolbar=\"-mbrBtnMove\">تطبيقات مدفوعه</a>",
                 "overlayOpacity": "0.4",
                 "overlayColor": "#000000"
               }
