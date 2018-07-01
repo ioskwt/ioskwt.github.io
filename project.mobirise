@@ -310,11 +310,11 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "الرسمي ioskwt موقع&nbsp;",
+                "title": "&nbsp;ioskwt &nbsp;",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "موقع برامج بلس وتطبيقات مدفوعة مجانا",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"https://ioskwt2.github.io/\" data-toolbar=\"-mbrBtnMove\">تطبيقات بلس</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://ioskwt3.github.io/\" data-toolbar=\"-mbrBtnMove\">تطبيقات مدفوعه</a>",
+                "text": "موقع برامج بلس وتطبيقات مدفوعة مجانا<br>لايوجد جلبريك",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"https://ioskwt2.github.io/\" data-toolbar=\"-mbrBtnMove\">تطبيقات بلس</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://ioskwt3.github.io/\" data-toolbar=\"-mbrBtnMove\">تطبيقات مدفوعه</a> <a data-app-btn=\"true\" class=\"btn  display-4 btn-black\" href=\"http://ioskwt4.github.io\" data-toolbar=\"-mbrBtnMove\">برامج مشاهدة</a>",
                 "overlayOpacity": "0.4",
                 "overlayColor": "#000000"
               }
