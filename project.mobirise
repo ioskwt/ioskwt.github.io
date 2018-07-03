@@ -32,10 +32,14 @@
       ]
     },
     "versionFirst": "4.5.4",
-    "uniqCompNum": 8,
+    "uniqCompNum": 12,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/vkj33ahx-400x400-128x128-1.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-115056678-2\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-115056678-2');\r\n</script>"
   },
   "pages": {
     "index.html": {
