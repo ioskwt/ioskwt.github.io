@@ -1600,15 +1600,27 @@ body {
 .cid-qWtMiO3B1f .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
-.cid-qWAEzB2BRk {
+.cid-qZ1cleIjFz {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #073b4c, #149dcc);
+}
+.cid-qZ1cleIjFz .mbr-iconfont-social {
+  font-size: 32px;
+  color: #0f7699;
+}
+.cid-qZ1cleIjFz .social-list a:focus {
+  text-decoration: none;
+}
+.cid-qZ1bBM9utb {
   padding-top: 90px;
   padding-bottom: 90px;
   background: linear-gradient(0deg, #767676, #232323);
 }
-.cid-qWAEzB2BRk .mbr-iconfont-social {
+.cid-qZ1bBM9utb .mbr-iconfont-social {
   font-size: 32px;
   color: #ff3366;
 }
-.cid-qWAEzB2BRk .social-list a:focus {
+.cid-qZ1bBM9utb .social-list a:focus {
   text-decoration: none;
 }
